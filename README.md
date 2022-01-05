@@ -1,3 +1,1 @@
-# WeatherApp
-
-DEMO () :fire:
+# WeatherApp ☔
